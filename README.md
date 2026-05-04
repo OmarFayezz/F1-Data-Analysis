@@ -99,8 +99,8 @@ F1-Data-Analysis/
 ## 👤 Author
 
 **Omar Fayez**
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- LinkedIn: [https://www.linkedin.com/in/omar-fayez-95a488312]
+
 
 ---
 
